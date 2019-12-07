@@ -1,9 +1,9 @@
 /*body *{*/
-border: 1px solid red;
+border: 1px solid blue;
 }
 .tn1{
-    font-size: 25px;
-    padding: 15px;
+    font-size: 15px;
+    padding: 20px;
 }
 .tn2{
     font-size: 40px;
@@ -66,7 +66,7 @@ span {
     margin-left: 1%;
 }
 #img1{
-    width: 85%;
+    width: 90%;
     padding: -3px;
     margin-left: 18px;
     margin-bottom: 10px;
@@ -140,8 +140,7 @@ span {
 .icon4{
     font-size: 22px;
     color: black;
-    padding-top: -6px;
-    margin-top: 0%;
+    padding-top: 5px;
     float: right;
 }
 #row2{
@@ -153,7 +152,7 @@ span {
     width: 5px;
     margin: 0 auto;
     padding-top: 30px;
-    background: ;
+    background: black ;
 }
 
 .timeline ul li::after {
